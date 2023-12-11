@@ -11,5 +11,5 @@ vgg16
 vgg19
 resnet
 inceptionv3
-## Resut
+## Result
 The comparative study reveals that InceptionV3 achieved the highest accuracy among the tested models
